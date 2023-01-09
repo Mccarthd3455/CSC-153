@@ -1,0 +1,21 @@
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleUI
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("David McCarthy");
+            Console.WriteLine("What I want to get out of this class is to learn the language c# and make sure I pass this class");
+            Console.WriteLine("Program classes I've taken are CIS-115 ");
+            Console.WriteLine("What was covered in that class was Variables, Data Types, Conditionals, How to break down a programming problem, Loops, Methods and Classes");
+            Console.ReadLine();
+        }
+    }
+}
